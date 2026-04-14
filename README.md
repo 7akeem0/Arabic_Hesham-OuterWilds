@@ -36,3 +36,4 @@ A complete Arabic translation for **Outer Wilds** and the **Echoes of the Eye** 
 - **Translation & Mod:** Hesham
 - **Translation Pipeline:** 7-agent AI pipeline (Qwen, Gemini, DeepSeek) with human review
 - **Built with:** [OWML](https://github.com/ow-mods/owml) and [Interplanetary Polyglot](https://github.com/xen-42/outer-wilds-localization-utility)
+- **Font:** [Noto Kufi Arabic](https://fonts.google.com/noto/specimen/Noto+Kufi+Arabic) by Google — licensed under [SIL Open Font License](https://openfontlicense.org/)
