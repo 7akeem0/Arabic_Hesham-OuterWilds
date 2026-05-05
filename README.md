@@ -7,7 +7,7 @@
 
 A complete Arabic translation for **Outer Wilds** and the **Echoes of the Eye** DLC, covering all dialogue, Nomai text, Ship Log entries, and UI.
 
-Made by Arabic_Hesham — [url=https://heshamlocalization.com]engine-level Arabic localization[/url] for indie devs.
+Made by Arabic_Hesham — [engine-level Arabic localization](https://heshamlocalization.com) for indie devs.
 
 ## Features
 
